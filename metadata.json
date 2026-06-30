@@ -1,0 +1,6 @@
+{
+  "name": "Sobrevuelos Turísticos RD",
+  "description": "Página web premium de sobrevuelos turísticos y reservas de experiencias aéreas exclusivas en Santo Domingo, Punta Cana, Bávaro y La Romana con asistente de reservas inteligente IA.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
